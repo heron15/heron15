@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heron15&show_icons=true&locale=en" alt="heron15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heron15&" alt="heron15" /></p>
+
+
+[![wakatime](https://wakatime.com/badge/user/b997d54a-6365-437f-b119-8e6b33cc75b1.svg)](https://wakatime.com/@b997d54a-6365-437f-b119-8e6b33cc75b1)
