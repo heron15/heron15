@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **heronmoy45@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1_-6C5eyiSKGSEe_2S0vGeGWwrjsbT7Uj?usp=drive_link)
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/drive/folders/1_-6C5eyiSKGSEe_2S0vGeGWwrjsbT7Uj?usp=drive_link)
 
-- ⚡ Fun fact **When I'm not coding, I’m either exploring new tech trends, solving puzzles, or brewing coffee.**
+- ⚡ Fun fact **When I'm not coding, I explore new tech trends, solve puzzles, or brew coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
