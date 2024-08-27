@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🌱 I’m currently learning **Flutter Framework**
 
 - 💬 Ask me about **Flutter, Android Native, Dart, Java, Kotlin**
 
 - 📫 How to reach me **heronmoy45@gmail.com**
 
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/drive/folders/1_-6C5eyiSKGSEe_2S0vGeGWwrjsbT7Uj?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_-6C5eyiSKGSEe_2S0vGeGWwrjsbT7Uj?usp=drive_link](https://drive.google.com/drive/folders/1_-6C5eyiSKGSEe_2S0vGeGWwrjsbT7Uj?usp=drive_link)
 
-- ⚡ Fun fact **When I'm not coding, I explore new tech trends, solve puzzles, or brew coffee.**
+- ⚡ Fun fact **When I'm not coding, I’m either exploring new tech trends, solving puzzles, or brewing coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
