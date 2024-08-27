@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Heronmoy Biswas</h1>
 <h3 align="center">A passionate Flutter developer and problem solver committed to crafting efficient and scalable mobile solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heron15" alt="heron15" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heron15" alt="heron15" />
+  </a> 
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Flutter Framework**
 
