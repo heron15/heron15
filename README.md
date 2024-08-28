@@ -1,4 +1,4 @@
-<img align="center" alt ="coding" width ="100%" src="https://i.postimg.cc/gcNSsvCn/App-developer.png"></img>
+<img align="center" alt ="coding" width ="100%" src="https://i.postimg.cc/Mpgrsk57/App-developer.png"></img>
 
 <h1 align="center">Hi 👋, I'm Heronmoy Biswas</h1>
 <h3 align="center">A passionate Flutter developer and problem solver committed to crafting efficient and scalable mobile solutions.</h3>
@@ -36,3 +36,5 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/b997d54a-6365-437f-b119-8e6b33cc75b1.svg)](https://wakatime.com/@b997d54a-6365-437f-b119-8e6b33cc75b1)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heron15)](https://github.com/anuraghazra/github-readme-stats)
